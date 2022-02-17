@@ -16,7 +16,7 @@ form#cms {
 .card-header button.delete,
 button.edit {
     float: right;
-    margin: 6px;
+    margin: 5px;
 }
 
 .author-container {
