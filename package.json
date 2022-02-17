@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/journeycruz/repo_branch_pruning/issues"
   },
-  "homepage": "https://github.com/journeycruz/repo_branch_pruning#readme"
+  "homepage": "https://github.com/journeycruz/repo_branch_pruning#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
